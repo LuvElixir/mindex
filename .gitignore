@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.env
+.env.local
+# Runtime database, snapshots and local admin credentials.
+/data/
+coverage/
+web/dist/
