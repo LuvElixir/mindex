@@ -1,0 +1,21 @@
+{
+  "name": "mindex",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Mindex — local-first, AI-native advertising knowledge hub. Index everything. Find insight.",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=server & npm run dev --workspace=web & wait",
+    "build": "npm run build --workspace=web && npm run build --workspace=server",
+    "start": "npm run start --workspace=server",
+    "test": "npm run test --workspace=server",
+    "mcp": "npm run mcp --workspace=server",
+    "eval": "npm run eval --workspace=@mindex/server"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
