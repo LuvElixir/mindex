@@ -49,7 +49,7 @@ npm run build
 npm start
 ```
 
-Open **http://127.0.0.1:8787** and sign in with the administrator token printed by the service. Configure the model provider and available sources in **Settings**, then create a project and start a research run or import source material.
+Open <http://127.0.0.1:8787> and sign in with the administrator token printed by the service. Configure the model provider and available sources in **Settings**, then create a project and start a research run or import source material.
 
 The data lives in the local `data/` directory. That directory and real credentials belong to your runtime environment.
 
