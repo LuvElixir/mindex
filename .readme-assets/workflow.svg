@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="256" viewBox="0 0 1200 256" role="img" aria-labelledby="title">
+<title id="title">Product workflow</title>
+<rect width="1200" height="256" rx="20" fill="#142722"/>
+<g font-family="Avenir Next, PingFang SC, sans-serif">
+<text x="36" y="38" font-size="13" fill="#b5c9ba" font-weight="500" letter-spacing="1.4">FROM INPUT TO OUTCOME</text>
+<text x="36" y="92" font-size="16" fill="#a6d8b7" font-weight="500" >01</text>
+<text x="36" y="135" font-size="26" fill="#f4f6f1" font-weight="500" >Collect</text>
+<text x="36" y="177" font-size="15" fill="#b5c9ba" font-weight="400" >Research runs or manual imports</text>
+<path d="M280 128 h26 m-7 -5 l7 5 -7 5" fill="none" stroke="#a6d8b7" stroke-width="1.5"/>
+<text x="330" y="92" font-size="16" fill="#a6d8b7" font-weight="500" >02</text>
+<text x="330" y="135" font-size="26" fill="#f4f6f1" font-weight="500" >Ground</text>
+<text x="330" y="177" font-size="15" fill="#b5c9ba" font-weight="400" >Link each claim to source text</text>
+<path d="M574 128 h26 m-7 -5 l7 5 -7 5" fill="none" stroke="#a6d8b7" stroke-width="1.5"/>
+<text x="624" y="92" font-size="16" fill="#a6d8b7" font-weight="500" >03</text>
+<text x="624" y="135" font-size="26" fill="#f4f6f1" font-weight="500" >Review</text>
+<text x="624" y="177" font-size="15" fill="#b5c9ba" font-weight="400" >Resolve uncertainty and conflicts</text>
+<path d="M868 128 h26 m-7 -5 l7 5 -7 5" fill="none" stroke="#a6d8b7" stroke-width="1.5"/>
+<text x="918" y="92" font-size="16" fill="#a6d8b7" font-weight="500" >04</text>
+<text x="918" y="135" font-size="26" fill="#f4f6f1" font-weight="500" >Use</text>
+<text x="918" y="177" font-size="15" fill="#b5c9ba" font-weight="400" >Search, context packs, and MCP</text>
+<text x="36" y="228" font-size="11" fill="#8aa795" font-weight="400" >WORKFLOW ILLUSTRATION · SEE STATUS NOTES BELOW</text>
+</g></svg>
