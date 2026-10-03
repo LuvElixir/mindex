@@ -42,8 +42,8 @@ Quote matching checks citation integrity. Source accuracy, whether an excerpt su
 Use **Node.js 22 or newer** and npm.
 
 ```bash
-git clone https://github.com/LuvElixir/MindexAI.git
-cd MindexAI
+git clone https://github.com/LuvElixir/mindex.git
+cd mindex
 npm ci
 npm run build
 npm start

@@ -42,8 +42,8 @@ flowchart LR
 准备 **Node.js 22 或更新版本**与 npm。
 
 ```bash
-git clone https://github.com/LuvElixir/MindexAI.git
-cd MindexAI
+git clone https://github.com/LuvElixir/mindex.git
+cd mindex
 npm ci
 npm run build
 npm start
