@@ -1,4 +1,4 @@
-![Mindex · 让每条结论都有出处](.readme-assets/hero.svg)
+![Mindex · 让每条结论都有出处](.readme-assets/hero.zh-CN.svg)
 
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 <p align="center"><a href="#快速开始">快速开始</a> · <a href="docs/architecture.md">架构设计</a> · <a href="docs/evaluation.md">评测方法</a> · <a href="docs/compliance.md">来源策略</a></p>
