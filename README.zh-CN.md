@@ -1,4 +1,4 @@
-![Mindex · 让每条结论都有出处](.readme-assets/hero.zh-CN.svg)
+![Mindex · 让每条结论都有出处](.readme-assets/hero.zh-CN.png)
 
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 <p align="center"><a href="#快速开始">快速开始</a> · <a href="docs/architecture.md">架构设计</a> · <a href="docs/evaluation.md">评测方法</a> · <a href="docs/compliance.md">来源策略</a></p>
@@ -9,7 +9,7 @@ Mindex 是面向手游广告研究的本地知识库。它把资料整理成独�
 
 研究人员可以回到原文核对判断。Agent 也能拿到同一份证据，以及来源和审核状态。尚未解决的冲突，会继续留在流程里。
 
-![收集资料、核对证据、审核判断、提供上下文](.readme-assets/workflow.zh-CN.svg)
+![收集资料、核对证据、审核判断、提供上下文](.readme-assets/workflow.zh-CN.png)
 
 ## 从资料到可核对的知识
 

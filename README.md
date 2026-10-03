@@ -1,4 +1,4 @@
-![Mindex — Give every claim a source](.readme-assets/hero.svg)
+![Mindex — Give every claim a source](.readme-assets/hero.png)
 
 <p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 <p align="center"><a href="#quick-start">Quick start</a> · <a href="docs/architecture.md">Architecture</a> · <a href="docs/evaluation.md">Evaluation</a> · <a href="docs/compliance.md">Source policy</a></p>
@@ -9,7 +9,7 @@ Mindex is a local knowledge hub for mobile-game advertising research. It turns s
 
 A researcher can inspect the original text behind a claim. An agent can retrieve the same evidence with its source and review state. Unresolved conflicts stay visible throughout the workflow.
 
-![Collect, ground, review, and use knowledge](.readme-assets/workflow.svg)
+![Collect, ground, review, and use knowledge](.readme-assets/workflow.png)
 
 ## Built around the evidence
 
